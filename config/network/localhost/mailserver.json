@@ -6,15 +6,21 @@
         "body": "Are you kidding me? Why don't you change your password?  The system is entirely compromised until you correct it.  You're the sysadmin, if you're this dumb the corporation is at risk."
     },
     {
-        "from": "Pseudo Dionysius",
-        "to": ["anon"],
+        "from": "The Areopagite",
+        "to": ["theareopagite"],
         "title": "THE CAUSE OF ALL THAT IS SENSIBLE IS NOT ANYTHING SENSIBLE",
         "body": "We say this of the cause of all being beyond all: It is not being-less, not lifeless, not without reason, not without intellect, not body, not figure, not form, not what has quality, quantity, or mass, not in space, not visible, not what has sensible contact, not what has sensation or what it sensed, not what has disorder and confusion, not what is troubled by material passions, not powerless, not subjected to what happens to sensibles, not light in what lacks, not, and has not, alteration, destruction, privation, diminution, or anything else which pertains to what is sensed."
     },
     {
-        "from": "Pseudo Dionysius",
+        "from": "The Areopagite",
         "to": ["anon"],
         "title": "Not for Disclosure to the Uninitiated",
-        "body": "NOTE: do not disclose to those who are entangled in beings, imagine nothing beyond beings, and claim to know by the knowledge in them Him who has made the dark his hiding place... If you desire to step over all that is pure and impure, scale every ascent of the holy summits, relinquish every divine light celestial sounds and logoi, and enter into the divine darkenss, then you must do so as I instruct you: ybtva gurnerbcntvgr:nfpraq"
+        "body": "NOTE: do not disclose to those who are entangled in beings, imagine nothing beyond beings, and claim to know by the knowledge in them Him who has made the dark his hiding place... If you accept that THE CAUSE OF ALL THAT IS SENSIBLE IS NOT ANYTHING SENSIBLE, and desire to step over all that is pure and impure, scale every ascent of the holy summits, relinquish every divine light celestial sounds and logoi, and enter into the divine darkenss, then you must do so as I instruct you: ybtva gurnerbcntvgr:nfpraq"
+    },
+    {
+        "from": "Pseudo Dionysius (The Areopagite)",
+        "to": ["theareopagite"],
+        "title": "Via Negationis",
+        "body": "So, you have chosen the way of denial, via negationis... God is NOT that which we know, that which we can speak of... God is BEYOND."
     }
 ]
