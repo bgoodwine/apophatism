@@ -1,32 +1,17 @@
 [
     {
-        "userId": "8A73B5",
-        "password": "trustno1",
-        "userName": "Mulder, Fox"
-    },
-
-    {
-        "userId": "a",
-        "password": "a",
-        "userName": "Mulder, Fox"
-    },
-
-    {
         "userId": "admin",
         "password": "admin",
         "userName": "root"
     },
-
     {
-        "userId": "n",
-        "password": "n",
-        "userName": "debug"
+        "userId": "stjohn",
+        "password": "ofthecross",
+        "userName": "st_john"
     },
-
     {
         "userId": "theareopagite",
         "password": "ascend",
         "userName": "the_areopagite"
     }    
-    
 ]
