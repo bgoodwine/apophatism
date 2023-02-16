@@ -1,6 +1,7 @@
 {
     "ascend": {
         "help": "Ascend into the divine dark",
+        "protection", ["theareopagite"],
         "clear": true,
         "message": [
             "<p class=desync>THE CAUSE OF ALL THAT IS SENSIBLE IS NOT ANYTHING SENSIBLE</p>",
@@ -12,6 +13,7 @@
     },
     "cloud.exe": {
         "protection": ["stjohn"],
+        "clear": true,
         "delayed": 2000,
         "message": [
             "Downloading cloud.",
@@ -22,6 +24,13 @@
             "47% complete",
             "98% complete",
             "The cloud of unknowing is above you, between you and Him... But you must set yourself to rest in this darkness, for if you are to experience Him at all, insofar as it is possible here, it must always be in this cloud and darkness... Trust in His mercy! Ascend once more to contact The Areopagite, reach him through Vaughan's artifacts! login vaughan:mountofolives"
+        ]
+    },
+    "target.exe": {
+        "location": ["127.0.0.1", "localhost"],
+        "message": [
+            "This <abbr title=\"tHeY aRe NoT hUmAn\"><s>person</s></abbr> is your target:",
+            "<img src=\"https://thispersondoesnotexist.com/image\" title=\"tHeY aRe NoT hUmAn\" style=\"width: 10rem; max-width: 100%;\">"
         ]
     },
     "artifact": {},
