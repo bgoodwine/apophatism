@@ -40,6 +40,7 @@ function artifact( args ) {
 }
 
 const DWEETS = {
+    927: () =>  const introMsg = [ "What is this?", `<img src="https://thisartworkdoesnotexist.com/?${ performance.now() }" style="width: 10rem; max-width: 100%;">` ];,
     888: () => dweet( ( t, x ) => { // FROM: https://www.dwitter.net/d/888
         for ( let i = 0; i < 300; i++ ) {
             for ( let j = 0; j < 6; j++ ) {
