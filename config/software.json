@@ -1,35 +1,27 @@
 {
-    "demo.exe": {
-        "help": "Demonstrate some rendering features",
+    "ascend": {
+        "help": "Ascend into the divine dark",
         "clear": true,
         "message": [
-            "<p class=glow style='font-size: 3em'>⚠ ACHTUNG ⚠</p>",
-            "<p class=desync>SHADY TROUBLING MESSAGE</p>",
+            "<p class=desync>THE CAUSE OF ALL THAT IS SENSIBLE IS NOT ANYTHING SENSIBLE</p>",
             "<img src=config/network/11.152.9.6/tech.jpg style='width: 10rem' class=glitch>",
-            "<p class=shimmer>Zombie ipsum reversus ab viral inferno, nam rick grimes malum cerebro. De carne lumbering animata corpora quaeritis. Summus brains sit​​, morbo vel maleficia?</p>",
-            "<p class=hack-reveal data-alphabet=uppercase data-iterations-before-reveal=0 data-preserve-spaces=true>All your base are belong to us</p>",
+            "<p class=shimmer>We say this of the cause of all being beyond all: It is not being-less, not lifeless, not without reason, not without intellect, not body, not figure, not form, not what has quality, quantity, or mass, not in space, not visible, not what has sensible contact, not what has sensation or what it sensed, not what has disorder and confusion, not what is troubled by material passions, not powerless, not subjected to what happens to sensibles, not light in what lacks, not, and has not, alteration, destruction, privation, diminution, or anything else which pertains to what is sensed.</p>",
+            "<p class=hack-reveal data-alphabet=uppercase data-iterations-before-reveal=0 data-preserve-spaces=true>ASCEND TO THE DIVINE DARK</p>",
             "<img src=hacker.jpg class=particle data-particules=2000>"
         ]
     },
-    "cdata.exe": {
-        "protection": ["admin"],
+    "cloud.exe": {
+        "protection": ["stjohn"],
         "delayed": 2000,
         "message": [
-            "Corrupting data.",
-            "Corrupting data..",
-            "Corrupting data...",
+            "Downloading cloud.",
+            "Downloading cloud..",
+            "Downloading cloud...",
             "0% complete",
             "11% complete",
             "47% complete",
             "98% complete",
-            "System successfully corrupted!"
-        ]
-    },
-    "target.exe": {
-        "location": ["127.0.0.1", "localhost"],
-        "message": [
-            "This <abbr title=\"tHeY aRe NoT hUmAn\"><s>person</s></abbr> is your target:",
-            "<img src=\"https://thispersondoesnotexist.com/image\" title=\"tHeY aRe NoT hUmAn\" style=\"width: 10rem; max-width: 100%;\">"
+            "The cloud of unknowing is above you, between you and Him... But you must set yourself to rest in this darkness, for if you are to experience Him at all, insofar as it is possible here, it must always be in this cloud and darkness... Trust in His mercy!"
         ]
     },
     "artifact": {},
