@@ -10,8 +10,13 @@
         "userName": "st_john"
     },
     {
+        "userId": "vaughan",
+        "password": "mountofolives",
+        "userName": "henry_vaughan"
+    },
+    {
         "userId": "theareopagite",
         "password": "ascend",
         "userName": "the_areopagite"
-    }    
+    }
 ]
