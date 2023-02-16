@@ -1,7 +1,6 @@
 {
     "ascend": {
         "help": "Ascend into the divine dark",
-        "protection", ["theareopagite"],
         "clear": true,
         "message": [
             "<p class=desync>THE CAUSE OF ALL THAT IS SENSIBLE IS NOT ANYTHING SENSIBLE</p>",
@@ -13,7 +12,6 @@
     },
     "cloud.exe": {
         "protection": ["stjohn"],
-        "clear": true,
         "delayed": 2000,
         "message": [
             "Downloading cloud.",
