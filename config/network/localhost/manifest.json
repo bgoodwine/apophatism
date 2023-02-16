@@ -1,10 +1,10 @@
 {
     "serverAddress": "localhost",
-    "serverName": "Node Y56 Intranet",
+    "serverName": "Divine Dark Intranet",
     "iconName": "apop.png",
-    "terminalID": "Y56",
+    "terminalID": "divinedark",
     "defaultUser": {
-        "userId": "user",
+        "userId": "anon",
         "password": "",
         "userName": "anonymous"
     },
