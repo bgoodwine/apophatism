@@ -2,7 +2,7 @@
     "ascend": {
         "help": "Ascend into the divine dark",
         "clear": true,
-        "protection", ["theareopagite"],
+        "protection": ["theareopagite"],
         "message": [
             "<p class=desync>THE CAUSE OF ALL THAT IS SENSIBLE IS NOT ANYTHING SENSIBLE</p>",
             "<img src=config/network/11.152.9.6/tech.jpg style='width: 10rem' class=glitch>",
