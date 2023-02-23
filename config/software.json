@@ -28,5 +28,7 @@
     },
     "artifact": {},
     "decrypt": {},
-    "identify": {}
+    "identify": {
+    "protection": ["theareopagite"]
+    }
 }
