@@ -6,7 +6,7 @@
     "defaultUser": {
         "userId": "anon",
         "password": "",
-        "userName": "anonymous"
+        "userName": "unknown_cloud"
     },
     "randomSeed": true,
     "initialHistory": {

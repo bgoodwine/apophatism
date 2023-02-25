@@ -2,6 +2,7 @@
     "ascend": {
         "help": "Ascend into the divine dark",
         "clear": true,
+        "protection": ["stjohn"],
         "message": [
             "<p class=desync>THE CAUSE OF ALL THAT IS SENSIBLE IS NOT ANYTHING SENSIBLE</p>",
             "<img src=config/network/11.152.9.6/tech.jpg style='width: 10rem' class=glitch>",
@@ -10,12 +11,39 @@
             "<img src=hacker.jpg class=particle data-particules=2000>"
         ]
     },
-    "message.txt": {
+    "README": {
         "help": "The message from your friend unknown_cloud",
+        "protection": ["anon"],
         "clear": true,
         "message": [
-            "<p class=shimmer>Hey man! Glad you made it through the backdoor- This is the network that's apparently lead by The One. If we want to work for him too, we'll have to proove ourselves! I've heard he's jealous, and doesn't let his followers work for anyone else... Apparently he doesn't want our help, he wants to help us. I know he's willing to take on noobs like us, but, what are we going to do? How will we move him? We need to get his attention. Try to find his contact info- One of these guys must have emailed him at some point. Keep me posted.</p>",
-            "<p class=shimmer> -unknown_cloud</p>"
+            "<p class=shimmer>Hey man! Glad you made it through the backdoor- This is the network that's apparently lead by The One. If we want to work for him too, we'll have to proove ourselves! I've heard he's jealous, and doesn't let his followers work for anyone else... Apparently he doesn't want our help, he wants to help us. I know he's willing to take on noobs like us, but, what are we going to do? How will we move him? We need to get his attention.</p>",
+            "<p class=shimmer>I also got my hands on some guys' credentials- login as stgregory:light and poke around. For a group of elite hackers trying to do good in the world, they sure have some weak passwords. See if you can find The One's contact info, maybe he has some emails with The One. Keep me posted.</p>",
+            "<p class=shimmer>   -unknown_cloud</p>"
+        ]
+    },
+    "group_manifest.txt": {
+        "help": "Our manifest",
+        "clear": true,
+        "message": [
+            "<p class=shimmer>He is GOOD.</p>",
+            "<p class=shimmer>He is BEING.</p>",
+            "<p class=shimmer>He is TRUTH.</p>",
+            "<p class=shimmer>He is BEAUTY.</p>",
+            "<p class=shimmer>He is LOVE.</p>",
+            "<p class=shimmer>He is LOGIC.</p>",
+            "<p class=shimmer>He is LIGHT.</p>",
+            "<p class=shimmer> ... </p>",
+            "<p class=shimmer>Our mission is to follow his will.</p>"
+        ]
+    },
+    "life_of_moses.txt": {
+        "help": "Working copy of my treatise",
+        "clear": true,
+        "protection": ["stgregory"],
+        "message": [
+            "<p class=shimmer>What does it mean that Moses entered the darkness and then saw God in it? What is now recounted seems somehow to be contradictory to the first theophany, for then the divine was beheld in light but now He is seen in darkness.</p>",
+            "<p class=shimmer>Scripture teaches by this that religious knowledge comes at first to those who receive it as light. Therefore what is perceived to be contrary to religion is darkness; an escape from darkness comes about when one participates in the light. </p>",
+            "<p class=shimmer>But as the mind progresses and, through an ever greater and more perfect diligence, comes to apprehend reality, as it approaches more nearly to contemplation, it sees more clearly that God cannot be contemplated.</p>"
         ]
     },
     "cloud.exe": {

@@ -1,21 +1,21 @@
 [
     {
+        "from": "St. John of the Cross",
+        "to": ["stgregory"],
+        "title": "Email for the One?",
+        "body": "St. Gregory, do you have The One's email? I joined this group becaues I thought you were working for him, but it seems like no one on this server actually knows The One. Have you ever met him? I'm starting to think he's just an idea. There's something fishy going on here. -St. John"
+    },
+    {
         "from": "St. Augustine of Hippo",
         "to": ["stgregory"],
         "title": "The Life of Moses",
-        "body": "St. Gregory,\nJust read your work on the Life of Moses. Exactly the sort of thinking that made this group great in the first place.\nSt. Augustine"
+        "body": "St. Gregory, just got to the draft you asked me to proofread of your treatise on the Life of Moses. There are some good ideas, but you're straying from the light... Be careful who you show this too. Some of the admins of this group wouldn NOT like it. -St. Augustine"
     },
     {
-        "from": "St. Augustine of Hippo",
+        "from": "St. John of the Cross",
         "to": ["stgregory"],
-        "title": "The One?",
-        "body": "St. Gregory,\nDo you really know The One? Are you in contact with him? I thought this group was working for him, so, where is he? Or are you another group of posers?"
-    },
-    {
-        "from": "Fwd from: St. John of the Cross",
-        "to": ["stgregory"],
-        "title": "Fwd: Secret ladder!",
-        "body": "St. Gregory, I got this email from John; it looks like he met The One. What do we do about this? And look at the end- Is he insane?\nI've found him! I went just as you said, through the dark web, when everyone was asleep. I was anxious to meet him, but, once I logged in, I knew I was in darkness, yes, but also in safety. I took the secret ladder, without any light or guide... I guess you could say I was guided by my heart.\nI'm lost now, but, not really. I don't know how to describe it. Take the secret ladder!!\nGnxr gur frperg ynqqre! Ybtva gb zl nppbhag gb svaq vg: ybtva fgwbua:frpergynqqre"
+        "title": "Secret ladder!",
+        "body": "St. Gregory, I've found him! I went through the dark web, when everyone was asleep. I was anxious to meet him, but, once I logged in, I knew I was in darkness, yes, but also in safety. I took the secret ladder, without any light or guide... I guess you could say I was guided by my heart. I'm lost now, but, not really. I don't know how to describe it. Take the secret ladder!! Gnxr gur frperg ynqqre! Ybtva gb zl nppbhag gb svaq vg: ybtva fgwbua:frpergynqqre"
     },
     {
         "from": "The Areopagite",
