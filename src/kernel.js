@@ -280,22 +280,6 @@ system = {
         } );
     },
 
-    date() {
-        return new Promise( ( resolve ) => {
-            const date = new Date();
-            if ( serverDatabase.year ) {
-                date.setYear( serverDatabase.year );
-            }
-            resolve( String( date ) );
-        } );
-    },
-
-    echo( args ) {
-        return new Promise( ( resolve ) => {
-            resolve( args.join( " " ) );
-        } );
-    },
-
     help( args ) {
         return new Promise( ( resolve ) => {
             const programs = allowedSoftwares();
@@ -312,35 +296,14 @@ system = {
                 ] );
             } else if ( args[ 0 ] === "clear" ) {
                 resolve( [ "Usage:", "> clear", "The clear command will completely wipeout the entire screen, but it will not affect the history." ] );
-            } else if ( args[ 0 ] === "date" ) {
-                resolve( [ "Usage:", "> date", "The date command will print the current date-time into terminal." ] );
-            } else if ( args[ 0 ] === "echo" ) {
-                resolve( [ "Usage:", "> echo args", "The echo command will print args into terminal." ] );
             } else if ( args[ 0 ] === "help" ) {
                 resolve( [ "Usage:", "> help", "The default help message. It will show some of the available commands in a server." ] );
             } else if ( args[ 0 ] === "login" ) {
                 resolve( [ "Usage:", "> login username:password", "Switch account: log in as another registered user on the server, to access your data files and messages." ] );
             } else if ( args[ 0 ] === "mail" ) {
                 resolve( [ "Usage:", "> mail", "If you're logged in you can list your mail messages if any." ] );
-            } else if ( args[ 0 ] === "ping" ) {
-                resolve( [
-                    "Usage:",
-                    "> ping address",
-                    "The ping command will try to reach a valid address.",
-                    "If the ping doesn't return a valid response, the address may be incorrect, may not exist or can't be reached locally."
-                ] );
             } else if ( args[ 0 ] === "read" ) {
                 resolve( [ "Usage:", "> read x", "If you're logged in you can read your mail messages if any." ] );
-            } else if ( args[ 0 ] === "ssh" ) {
-                resolve( [
-                    "Usage:",
-                    "> ssh address",
-                    "> ssh username@address",
-                    "> ssh username:password@address",
-                    "You can connect to a valid address to access a specific server on the Internet.",
-                    "You may need to specify a username if the server has no default user.",
-                    "You may need to specify a password if the user account is protected."
-                ] );
             } else if ( args[ 0 ] === "whoami" ) {
                 resolve( [ "Usage:", "> whoami", "Display the server you are currently connected to, and the login you are registered with." ] );
             } else if ( args[ 0 ] in softwareInfo ) {
@@ -445,53 +408,6 @@ system = {
             }
 
             resolve( message );
-        } );
-    },
-
-    ping( args ) {
-        return new Promise( ( resolve, reject ) => {
-            if ( args === "" ) {
-                reject( new AddressIsEmptyError() );
-                return;
-            }
-
-            $.get( `config/network/${ args }/manifest.json`, ( serverInfo ) => {
-                resolve( `Server ${ serverInfo.serverAddress } (${ serverInfo.serverName }) can be reached` );
-            } )
-                .fail( () => reject( new AddressNotFoundError( args ) ) );
-        } );
-    },
-
-    telnet() {
-        return new Promise( ( _, reject ) => {
-            reject( new Error( "telnet is unsecure and is deprecated - use ssh instead" ) );
-        } );
-    },
-
-    ssh( args ) {
-        return new Promise( ( resolve, reject ) => {
-            if ( args === "" ) {
-                reject( new AddressIsEmptyError() );
-                return;
-            }
-            let userName = "";
-            let passwd = "";
-            let serverAddress = args[ 0 ];
-            if ( serverAddress.includes( "@" ) ) {
-                const splitted = serverAddress.split( "@" );
-                if ( splitted.length !== 2 ) {
-                    reject( new InvalidCommandParameter( "ssh" ) );
-                    return;
-                }
-                serverAddress = splitted[ 1 ];
-                try {
-                    [ userName, passwd ] = userPasswordFrom( splitted[ 0 ] );
-                } catch ( error ) {
-                    reject( error );
-                    return;
-                }
-            }
-            kernel.connectToServer( serverAddress, userName, passwd ).then( resolve ).catch( reject );
         } );
     }
 };
