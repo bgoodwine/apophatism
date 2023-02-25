@@ -11,7 +11,7 @@
             "<img src=hacker.jpg class=particle data-particules=2000>"
         ]
     },
-    "readme.txt": {
+    "message.txt": {
         "help": "The message from your friend unknown_cloud",
         "clear": true,
         "protection": ["anon"],
@@ -62,7 +62,7 @@
             "<p class=shimmer>Logging off for now.</p>"
         ]
     },
-    "group_manifest.txt": {
+    "manifest.txt": {
         "help": "Our manifest",
         "clear": true,
         "message": [
