@@ -5,13 +5,33 @@
         "userName": "root"
     },
     {
+        "userId": "stgregory",
+        "password": "light",
+        "userName": "gregory_of_nyssa"
+    },
+    {
         "userId": "stjohn",
-        "password": "ofthecross",
-        "userName": "st_john"
+        "password": "secretladder",
+        "userName": "john_of_the_cross"
+    },
+    {
+        "userId": "stjohn",
+        "password": "secretladder",
+        "userName": "john_of_the_cross"
+    },
+    {
+        "userId": "stjohn",
+        "password": "secretladder",
+        "userName": "john_of_the_cross"
+    },
+    {
+        "userId": "staugustine",
+        "password": "hipposrule",
+        "userName": "augustine_of_hippo"
     },
     {
         "userId": "theareopagite",
-        "password": "ascend",
+        "password": "divinedarkness",
         "userName": "the_areopagite"
     }    
 ]

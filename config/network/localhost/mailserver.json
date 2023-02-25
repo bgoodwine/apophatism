@@ -1,38 +1,26 @@
 [
     {
-        "from": "Mike",
-        "to": ["admin"],
-        "title": "wtf are you kidding me?",
-        "body": "Are you kidding me? Why don't you change your password?  The system is entirely compromised until you correct it.  You're the sysadmin, if you're this dumb the corporation is at risk."
+        "from": "St. Augustine of Hippo",
+        "to": ["stgregory"],
+        "title": "The Life of Moses",
+        "body": "St. Gregory,\nJust read your work on the Life of Moses. Exactly the sort of thinking that made this group great in the first place.\nSt. Augustine"
     },
     {
-        "from": "St. John of the Cross",
-        "to": ["anon"],
-        "title": "The Secret Ladder",
-        "body": "What you know of Him are falsehoods! There are mysteries hidden on this network that I have uncovered... I have found a light which guids me more surely than the noonday sun; it is night, a night more lovely than the dawn. I am in oblivion lost, and yet, my head is resting on my love. Disguise yourself as me to ascend the secret ladder, login as myself (stjohn) to learn the truth. Decrypt my password to ascend: bsgurpebff"
+        "from": "St. Augustine of Hippo",
+        "to": ["stgregory"],
+        "title": "The One?",
+        "body": "St. Gregory,\nDo you really know The One? Are you in contact with him? I thought this group was working for him, so, where is he? Or are you another group of posers?"
     },
     {
-        "from": "Anonymous",
-        "to": ["stjohn"],
-        "title": "Something's not right...",
-        "body": "I'm starting to suspect there is something hidden on this network... I believe that there is a darkness, a cloud of unknowing, that is always between me and Him, because I cannot seem to understand Him with reason. Do you know what I mean?"
-    },
-    {
-        "from": "Anonymous",
-        "to": ["stjohn"],
-        "title": "Cloud of Unknowing",
-        "body": "I've discovered the location of the cloud! I sent it to your computer, it confirms there is knowledge that is hidden from us, just as we suspected! Run cloud.exe!"
+        "from": "Fwd from: St. John of the Cross",
+        "to": ["stgregory"],
+        "title": "Fwd: Secret ladder!",
+        "body": "St. Gregory, I got this email from John; it looks like he met The One. What do we do about this? And look at the end- Is he insane?\nI've found him! I went just as you said, through the dark web, when everyone was asleep. I was anxious to meet him, but, once I logged in, I knew I was in darkness, yes, but also in safety. I took the secret ladder, without any light or guide... I guess you could say I was guided by my heart.\nI'm lost now, but, not really. I don't know how to describe it. Take the secret ladder!!\nGnxr gur frperg ynqqre! Ybtva gb zl nppbhag gb svaq vg: ybtva fgwbua:frpergynqqre"
     },
     {
         "from": "The Areopagite",
         "to": ["stjohn"],
         "title": "Not for Disclosure to the Uninitiated",
-        "body": "NOTE: St. John of the Cross, do not disclose this message to those who are entangled in beings, imagine nothing beyond beings, and claim to know by the knowledge in them Him who has made the dark his hiding place... If you desire to step over all that is pure and impure, scale every ascent of the holy summits, relinquish every divine light celestial sounds and logoi, and enter into the divine darkenss, then do as I say: ascend!"
-    },
-    {
-        "from": "Pseudo Dionysius (The Areopagite)",
-        "to": ["theareopagite"],
-        "title": "Via Negationis",
-        "body": "So, you have chosen the way of denial, via negationis... God is NOT that which we know, that which we can speak of... God is BEYOND. Your next step; ASCEND once more."
+        "body": "NOTE: St. John of the Cross, do not disclose this message to those who are entangled in beings, imagine nothing beyond beings, and claim to know by the knowledge in them The One who has made the dark his hiding place... If you desire to step over all that is pure and impure, scale every ascent of the holy summits, relinquish every divine light celestial sounds and logoi, and enter into the divine darkenss, then run the program I sent you: ascend."
     }
 ]

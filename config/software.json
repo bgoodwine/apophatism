@@ -10,6 +10,14 @@
             "<img src=hacker.jpg class=particle data-particules=2000>"
         ]
     },
+    "message.txt": {
+        "help": "The message from your friend unknown_cloud",
+        "clear": true,
+        "message": [
+            "<p class=shimmer>Hey man! Glad you made it through the backdoor- This is the network that's apparently lead by The One. If we want to work for him too, we'll have to proove ourselves! I've heard he's jealous, and doesn't let his followers work for anyone else... Apparently he doesn't want our help, he wants to help us. I know he's willing to take on noobs like us, but, what are we going to do? How will we move him? We need to get his attention. Try to find his contact info- One of these guys must have emailed him at some point. Keep me posted.</p>",
+            "<p class=shimmer> -unknown_cloud</p>"
+        ]
+    },
     "cloud.exe": {
         "protection": ["stjohn"],
         "delayed": 2000,
