@@ -33,5 +33,10 @@
         "userId": "theareopagite",
         "password": "divinedarkness",
         "userName": "the_areopagite"
+    }, 
+    {
+        "userId": "cloud",
+        "password": "unknown",
+        "userName": "unknown_cloud"
     }    
 ]

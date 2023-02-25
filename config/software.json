@@ -3,11 +3,15 @@
         "help": "Ascend into the divine dark",
         "clear": true,
         "protection": ["stjohn"],
+        "secretCommand": true,
         "message": [
-            "<p class=desync>THE CAUSE OF ALL THAT IS SENSIBLE IS NOT ANYTHING SENSIBLE</p>",
+            "<p class=desync>THE DIVINE DARK</p>",
             "<img src=config/network/11.152.9.6/tech.jpg style='width: 10rem' class=glitch>",
-            "<p class=shimmer>We say this of the cause of all being beyond all: It is not being-less, not lifeless, not without reason, not without intellect, not body, not figure, not form, not what has quality, quantity, or mass, not in space, not visible, not what has sensible contact, not what has sensation or what it sensed, not what has disorder and confusion, not what is troubled by material passions, not powerless, not subjected to what happens to sensibles, not light in what lacks, not, and has not, alteration, destruction, privation, diminution, or anything else which pertains to what is sensed.</p>",
-            "<p class=hack-reveal data-alphabet=uppercase data-iterations-before-reveal=0 data-preserve-spaces=true>ASCEND TO THE DIVINE DARK</p>",
+            "<p class=shimmer>The simple, unobserved, unchanged mysteries of The One lie hidden in the dark web, in the greatest darkness, beyond being.</p>",
+            "<p class=shimmer>Step over all that is pure and impure. Scale every ascent of the holy summits. Relinquish every divine light.</p>",
+            "<p class=shimmer></p>",
+            "<p class=hack-reveal data-alphabet=uppercase data-iterations-before-reveal=0 data-preserve-spaces=true>ENTER INTO THE DIVINE DARK</p>",
+            "<p class=shimmer>He's waiting for you through & your friend this backdoor: ybtva pybhq:haxabja</p>",
             "<img src=hacker.jpg class=particle data-particules=2000>"
         ]
     },
@@ -59,7 +63,7 @@
             "<p class=shimmer>    not something among what is not,</p>",
             "<p class=shimmer>    not something among what is,</p>",
             "<p class=shimmer>The One is not dark OR light, not error OR truth. He is beyond the whole, beyond all negation.</p>",
-            "<p class=shimmer>Logging off for now.</p>"
+            "<p class=shimmer>Logging off for now. If you want to know more, download my program with this command: ascend</p>"
         ]
     },
     "manifest.txt": {
@@ -77,8 +81,8 @@
             "<p class=shimmer>Our mission is to follow his will.</p>"
         ]
     },
-    "life_of_moses.txt": {
-        "help": "Working copy of my treatise",
+    "moses.txt": {
+        "help": "Draft of a post on @moses",
         "clear": true,
         "protection": ["stgregory"],
         "message": [
@@ -87,7 +91,8 @@
             "<p class=shimmer>But as the mind progresses and, through an ever greater and more perfect diligence, comes to apprehend reality, as it approaches more nearly to contemplation, it sees more clearly that God cannot be contemplated.</p>"
         ]
     },
-    "secret_ladder.exe": {
+    "ladder.exe": {
+        "help": "Program sent by St. John of the Cross",
         "protection": ["stgregory"],
         "delayed": 2000,
         "message": [
