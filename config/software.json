@@ -11,14 +11,55 @@
             "<img src=hacker.jpg class=particle data-particules=2000>"
         ]
     },
-    "README": {
+    "readme.txt": {
         "help": "The message from your friend unknown_cloud",
-        "protection": ["anon"],
         "clear": true,
+        "protection": ["anon"],
         "message": [
             "<p class=shimmer>Hey man! Glad you made it through the backdoor- This is the network that's apparently lead by The One. If we want to work for him too, we'll have to proove ourselves! I've heard he's jealous, and doesn't let his followers work for anyone else... Apparently he doesn't want our help, he wants to help us. I know he's willing to take on noobs like us, but, what are we going to do? How will we move him? We need to get his attention.</p>",
             "<p class=shimmer>I also got my hands on some guys' credentials- login as stgregory:light and poke around. For a group of elite hackers trying to do good in the world, they sure have some weak passwords. See if you can find The One's contact info, maybe he has some emails with The One. Keep me posted.</p>",
             "<p class=shimmer>   -unknown_cloud</p>"
+        ]
+    },
+    "being.txt": {
+        "help": "A forum post from The Areopagite",
+        "clear": true,
+        "protection": ["stjohn"],
+        "message": [
+            "<p class=shimmer>Post: THE CAUSE OF ALL THAT IS SENSIBLE IS NOT ANYTHING SENSIBLE</p>",
+            "<p class=shimmer>User: @dionysus</p>",
+            "<p class=shimmer>New users, watch out! EVERYONE on this forum is lying about The One. They don't actually know anything about him.</p>",
+            "<p class=shimmer>He's NOT being-less, not lifeless, not body, not in space, not visible, like @lycurgus keeps claiming</p>",
+            "<p class=shimmer>He's not confused, or troubled by material passions, or powerless. He's not ANYTHING that even pertains to what is sensed. </p>",
+            "<p class=shimmer>Don't believe everything you read!</p>"
+        ]
+    },
+    "intelligible.txt": {
+        "help": "A forum post from The Areopagite",
+        "clear": true,
+        "protection": ["stjohn"],
+        "message": [
+            "<p class=shimmer>Post: THE CAUSE OF ALL THAT IS INTELLIGIBLE IS NOT ANYTHING INTELLIGIBLE</p>",
+            "<p class=shimmer>User: @dionysus</p>",
+            "<p class=shimmer>Since my last post blew up, people have been asking what I think. So, here it is.</p>",
+            "<p class=shimmer>The One is...</p>",
+            "<p class=shimmer>    not soul, not intellect</p>",
+            "<p class=shimmer>    not spoken, not thought,</p>",
+            "<p class=shimmer>    not greatness, not smallness</p>",
+            "<p class=shimmer>    not powerful, not power</p>",
+            "<p class=shimmer>    not light</p>",
+            "<p class=shimmer>    not living, not life</p>",
+            "<p class=shimmer>    not being</p>",
+            "<p class=shimmer>    not eternity, not time</p>",
+            "<p class=shimmer>    not knowledge, not truth,</p>",
+            "<p class=shimmer>    not king, not wisdom,</p>",
+            "<p class=shimmer>    not one, not unity,</p>",
+            "<p class=shimmer>    not divinity,</p>",
+            "<p class=shimmer>    not goodness,</p>",
+            "<p class=shimmer>    not something among what is not,</p>",
+            "<p class=shimmer>    not something among what is,</p>",
+            "<p class=shimmer>The One is not dark OR light, not error OR truth. He is beyond the whole, beyond all negation.</p>",
+            "<p class=shimmer>Logging off for now.</p>"
         ]
     },
     "group_manifest.txt": {
@@ -46,18 +87,18 @@
             "<p class=shimmer>But as the mind progresses and, through an ever greater and more perfect diligence, comes to apprehend reality, as it approaches more nearly to contemplation, it sees more clearly that God cannot be contemplated.</p>"
         ]
     },
-    "cloud.exe": {
-        "protection": ["stjohn"],
+    "secret_ladder.exe": {
+        "protection": ["stgregory"],
         "delayed": 2000,
         "message": [
-            "Downloading cloud.",
-            "Downloading cloud..",
-            "Downloading cloud...",
+            "Downloading ladder.",
+            "Downloading ladder..",
+            "Downloading ladder...",
             "0% complete",
             "11% complete",
             "47% complete",
             "98% complete",
-            "The cloud of unknowing is above you, between you and Him... But you must set yourself to rest in this darkness, for if you are to experience Him at all, insofar as it is possible here, it must always be in this cloud and darkness... Trust in His mercy!"
+            "Ybtva gb zl nppbhag gb svaq vg: ybtva fgwbua:frpergynqqre"
         ]
     },
     "artifact": {},
