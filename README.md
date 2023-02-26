@@ -8,7 +8,11 @@ Subject:  Search for The One
 -----------------------------------------------------------------------------
 Hey man,
 
-I’ve been trying to hack into the Via Negationis Intranet for weeks now, ever since I found out they’re the elite hacker group lead by The One. I finally found a backdoor into their server: https://bgoodwine.github.io/apophatism/. I’m pretty sure The One is active on this server, so if we just poke around a bit, we can contact him. So click the link and read my message, I’m waiting for you!
+I’ve been trying to hack into the Via Negationis Intranet for weeks now, ever since 
+I found out they’re the elite hacker group lead by The One. I finally found a backdoor 
+into their server: https://bgoodwine.github.io/apophatism/. I’m pretty sure The One is 
+active on this server, so if we just poke around a bit, we can contact him. So click 
+the link and read my message, I’m waiting for you!
 
 -unknown_cloud
 -----------------------------------------------------------------------------
