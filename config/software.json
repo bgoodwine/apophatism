@@ -20,7 +20,7 @@
         "clear": true,
         "protection": ["anon"],
         "message": [
-            "<p class=shimmer>Hey man! Glad you made it through the backdoor- This is the network that's apparently lead by The One. If we want to work for him too, we'll have to proove ourselves! I've heard he's jealous, and doesn't let his followers work for anyone else... Apparently he doesn't want our help, he wants to help us. I know he's willing to take on noobs like us, but, what are we going to do? How will we move him? We need to get his attention. Found their manifest, pretty standard stuff...</p>",
+            "<p class=shimmer>Hey man! Glad you made it through the backdoor- This is the network that's apparently led by The One. If we want to work for him too, we'll have to prove ourselves! I've heard he's jealous, and doesn't let his followers work for anyone else... Apparently he doesn't want our help, he wants to help us. I know he's willing to take on noobs like us, but, what are we going to do? How will we move him? We need to get his attention. Found their manifest, pretty standard stuff...</p>",
             "<p class=shimmer>I also got my hands on some guys' credentials- login as stgregory:light and poke around. For a group of elite hackers trying to do good in the world, they sure have some weak passwords. See if you can find The One's contact info, maybe he has some emails with The One. Keep me posted.</p>",
             "<p class=shimmer>   -unknown_cloud</p>"
         ]
@@ -30,7 +30,18 @@
         "clear": true,
         "protection": ["stjohn"],
         "message": [
-            "<p class=shimmer>Post: THE CAUSE OF ALL THAT IS SENSIBLE IS NOT ANYTHING SENSIBLE</p>",
+            "<p class=shimmer>Post: WHAT WE KNOW OF THE ONE</p>",
+            "<p class=shimmer>User: @lycurgus</p>",
+            "<p class=shimmer>He is GOOD.</p>",
+            "<p class=shimmer>He is BEING.</p>",
+            "<p class=shimmer>He is TRUTH.</p>",
+            "<p class=shimmer>He is BEAUTY.</p>",
+            "<p class=shimmer>He is LOVE.</p>",
+            "<p class=shimmer>He is LOGIC.</p>",
+            "<p class=shimmer>He is LIGHT.</p>",
+            "<p class=shimmer>...</p>",
+            "<p class=shimmer>The path to The One is NOT through the dark web!</p>",
+            "<p class=shimmer>Top Comment: THE CAUSE OF ALL THAT IS SENSIBLE IS NOT ANYTHING SENSIBLE</p>",
             "<p class=shimmer>User: @dionysus</p>",
             "<p class=shimmer>New users, watch out! EVERYONE on this forum is lying about The One. They don't actually know anything about him.</p>",
             "<p class=shimmer>He's NOT being-less, not lifeless, not body, not in space, not visible, like @lycurgus keeps claiming</p>",
@@ -70,15 +81,16 @@
         "help": "Our manifest",
         "clear": true,
         "message": [
-            "<p class=shimmer>He is GOOD.</p>",
-            "<p class=shimmer>He is BEING.</p>",
-            "<p class=shimmer>He is TRUTH.</p>",
-            "<p class=shimmer>He is BEAUTY.</p>",
-            "<p class=shimmer>He is LOVE.</p>",
-            "<p class=shimmer>He is LOGIC.</p>",
-            "<p class=shimmer>He is LIGHT.</p>",
-            "<p class=shimmer> ... </p>",
-            "<p class=shimmer>Our mission is to follow his will.</p>"
+            "<p class=shimmer>Manifest of the Via Negationis</p>",
+            "<p class=shimmer>We will do as The One directs, and keep the hacker ethics.</p>",
+            "<p class=shimmer>...</p>",
+            "<p class=shimmer>Access to computers- and anything which might teach you something about the way the world works - should be unlimited and total.</p>",
+            "<p class=shimmer>All information should be free.</p>",
+            "<p class=shimmer>Mistrust authority- promote decentralization.</p>",
+            "<p class=shimmer>Hackers should be judged by their hacking, not bogus criteria such as degrees, age, race, sex, or position.</p>",
+            "<p class=shimmer>You can create art and beauty on a computer.</p>",
+            "<p class=shimmer>Computers can change your life for the better.</p>",
+            "<p class=shimmer>...</p>"
         ]
     },
     "moses.txt": {
@@ -86,6 +98,8 @@
         "clear": true,
         "protection": ["stgregory"],
         "message": [
+            "<p class=shimmer>Post (DRAFT): LIFE OF MOSES</p>",
+            "<p class=shimmer>User: @stgregory</p>",
             "<p class=shimmer>What does it mean that Moses entered the darkness and then saw God in it? What is now recounted seems somehow to be contradictory to the first theophany, for then the divine was beheld in light but now He is seen in darkness.</p>",
             "<p class=shimmer>Scripture teaches by this that religious knowledge comes at first to those who receive it as light. Therefore what is perceived to be contrary to religion is darkness; an escape from darkness comes about when one participates in the light. </p>",
             "<p class=shimmer>But as the mind progresses and, through an ever greater and more perfect diligence, comes to apprehend reality, as it approaches more nearly to contemplation, it sees more clearly that God cannot be contemplated.</p>"
